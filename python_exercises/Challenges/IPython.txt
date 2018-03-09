@@ -1,0 +1,20 @@
+1) 
+https://pypi.python.org/pypi/six
+pip install traitlets
+
+
+2) https://pypi.python.org/pypi/setuptools
+
+3) https://pypi.python.org/pypi/pyreadline
+
+4) 
+https://pypi.python.org/pypi/ipython/5.3.0#downloads
+
+$ tar -xzf ipython.tar.gz
+$ cd ipython
+$ python setup.py install
+
+
+https://ipython.org/ipython-doc/2/install/install.html
+
+
